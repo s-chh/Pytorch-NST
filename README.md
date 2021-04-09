@@ -1,5 +1,4 @@
 # Pytorch-NST
 Pytorch implementation of Neural Style Transfer 
 
-Content image name should be "input.jpg". <br>
-Style image name should be "style.jpg".
+Content image should be named as "input.jpg" and Style image as "style.jpg".
